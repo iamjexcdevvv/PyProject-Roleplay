@@ -1,0 +1,1 @@
+age_to_all(0x000000FF, f'{name} has joined the server.')

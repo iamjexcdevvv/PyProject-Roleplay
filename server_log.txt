@@ -1,0 +1,51 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:41:32] filterscripts = ""  (string)
+[17:41:32] 
+[17:41:32] Server Plugins
+[17:41:32] --------------
+[17:41:32]  Loading plugin: PySAMP
+[17:41:32] 
+[17:41:32]            PPPPPPPPPPPPPPPPP                               SSSSSSSSSSSSSSS              AAA               MMMMMMMM               MMMMMMMMPPPPPPPPPPPPPPPPP   
+[17:41:32]            P::::::::::::::::P                            SS:::::::::::::::S            A:::A              M:::::::M             M:::::::MP::::::::::::::::P  
+[17:41:32]            P::::::PPPPPP:::::P                          S:::::SSSSSS::::::S           A:::::A             M::::::::M           M::::::::MP::::::PPPPPP:::::P 
+[17:41:32]            PP:::::P     P:::::P                         S:::::S     SSSSSSS          A:::::::A            M:::::::::M         M:::::::::MPP:::::P     P:::::P
+[17:41:32]              P::::P     P:::::Pyyyyyyy           yyyyyyyS:::::S                     A:::::::::A           M::::::::::M       M::::::::::M  P::::P     P:::::P
+[17:41:32]              P::::P     P:::::P y:::::y         y:::::y S:::::S                    A:::::A:::::A          M:::::::::::M     M:::::::::::M  P::::P     P:::::P
+[17:41:32]              P::::PPPPPP:::::P   y:::::y       y:::::y   S::::SSSS                A:::::A A:::::A         M:::::::M::::M   M::::M:::::::M  P::::PPPPPP:::::P 
+[17:41:32]              P:::::::::::::PP     y:::::y     y:::::y     SS::::::SSSSS          A:::::A   A:::::A        M::::::M M::::M M::::M M::::::M  P:::::::::::::PP  
+[17:41:32]              P::::PPPPPPPPP        y:::::y   y:::::y        SSS::::::::SS       A:::::A     A:::::A       M::::::M  M::::M::::M  M::::::M  P::::PPPPPPPPP    
+[17:41:32]              P::::P                 y:::::y y:::::y            SSSSSS::::S     A:::::AAAAAAAAA:::::A      M::::::M   M:::::::M   M::::::M  P::::P            
+[17:41:32]              P::::P                  y:::::y:::::y                  S:::::S   A:::::::::::::::::::::A     M::::::M    M:::::M    M::::::M  P::::P            
+[17:41:32]              P::::P                   y:::::::::y                   S:::::S  A:::::AAAAAAAAAAAAA:::::A    M::::::M     MMMMM     M::::::M  P::::P            
+[17:41:32]            PP::::::PP                  y:::::::y        SSSSSSS     S:::::S A:::::A             A:::::A   M::::::M               M::::::MPP::::::PP          
+[17:41:32]            P::::::::P                   y:::::y         S::::::SSSSSS:::::SA:::::A               A:::::A  M::::::M               M::::::MP::::::::P          
+[17:41:32]            P::::::::P                  y:::::y          S:::::::::::::::SSA:::::A                 A:::::A M::::::M               M::::::MP::::::::P          
+[17:41:32]            PPPPPPPPPP                 y:::::y            SSSSSSSSSSSSSSS AAAAAAA                   AAAAAAAMMMMMMMM               MMMMMMMMPPPPPPPPPP          
+[17:41:32]                                      y:::::y                                                                                                                 
+[17:41:32]                                     y:::::y                                                                                                                  
+[17:41:32]                                    y:::::y                                                                                                                   
+[17:41:32]                                   y:::::y                                                                                                                    
+[17:41:32]                                  yyyyyyy                                                                                                                     
+[17:41:32] 
+PySAMP 2.1.0 (Jun 14 2023 11:37:31) for Python 3.6.8
+
+[17:41:32]   Loaded.
+[17:41:32]  Loaded 1 plugins.
+
+[17:41:32] 
+[17:41:32] Filterscripts
+[17:41:32] ---------------
+[17:41:32]   Loaded 0 filterscripts.
+
+[17:41:32] Loading PySAMP...
+[17:41:33] Number of vehicle models: 0
+[17:41:47] [connection] incoming connection: 127.0.0.1:59866 id: 0
+[17:41:47] [join] Jexc_Dev has joined the server (0:127.0.0.1)
